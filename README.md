@@ -1,5 +1,5 @@
 # 🏛️ Museum Collection Insights
-![Dashboard Preview](Datasets\wp2186239-museum-wallpapers.jpg)
+![Dashboard Preview](Datasets/wp2186239-museum-wallpapers.jpg)
 
 **A Data Analytics & Visualization Project Using SQL Server and Power BI**
 
@@ -90,7 +90,7 @@ The dashboard is designed with a **2-page layout** for optimal navigation and in
 
 ### 📷 Preview
 
-![Dashboard Preview](Datasets\Museum_Collection_Insights_page-0001.jpg)
+![Dashboard Preview](Datasets/Museum_Collection_Insights_page-0001.jpg)
 
 ---
 
@@ -107,7 +107,7 @@ The dashboard is designed with a **2-page layout** for optimal navigation and in
 
 ## 📌 Project Author
 
-**Sahil Jena**  
+**Shreya Pandey**  
 *Data Analytics Placement Project | 2025*  
 *SQL | Power BI | Data Modeling | Visualization*
 
