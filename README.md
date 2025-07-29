@@ -111,7 +111,7 @@ The dashboard is designed with a **2-page layout** for optimal navigation and in
 *Data Analytics Placement Project | 2025*  
 *SQL | Power BI | Data Modeling | Visualization*
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shreya-pandey-97252431b/)
 📁 GitHub: [github.com/sahiljena](https://github.com/shreya579/MoMA-ModernArt-Analytics)
 
 ---
