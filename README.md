@@ -112,6 +112,6 @@ The dashboard is designed with a **2-page layout** for optimal navigation and in
 *SQL | Power BI | Data Modeling | Visualization*
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shreya-pandey-97252431b/)
-📁 GitHub: [github.com/sahiljena](https://github.com/shreya579/MoMA-ModernArt-Analytics)
+📁 GitHub: [github.com/Shreya Pandey](https://github.com/shreya579/MoMA-ModernArt-Analytics)
 
 ---
